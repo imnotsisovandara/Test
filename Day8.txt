@@ -1,0 +1,5 @@
+Do last web and 
+Today we study about:
+-position (header use sticky not fixed, fixed use for button only when scroll )
+		(relative move jenh pi ti tang derm)
+		(absolute move jenh pi screen)
